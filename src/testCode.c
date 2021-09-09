@@ -22,5 +22,6 @@ int main ()
 {
 	printf ("Hello World");
 	printf ("\nHere is another line!");
+	printf ("\nI am a student in CS 300");
 	return 0;
 }
